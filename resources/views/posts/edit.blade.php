@@ -42,7 +42,7 @@
             <br>
             <button type="submit" class="btn btn-md btn-success">Update</button>
             <button type="reset" class="btn btn-md btn-danger">Reset</button>
-
+            <button type="back" class="btn btn-md btn-primary">Back</button>
           </form>
         </div>
       </div>

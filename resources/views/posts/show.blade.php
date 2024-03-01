@@ -22,6 +22,7 @@
             <p class="tmt-3">
               {!! $post->content !!}
             </p>
+            <a href="{{ route('posts.index', $post->id) }}" class="btn btn-sm btn-primary">back</a>
           </div>
         </div>
       </div>
